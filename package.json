@@ -98,9 +98,9 @@
     "testEnvironment": "node"
   },
   "bugs": {
-    "url": "https://github.com/patilreena"
+    "url": "https://github.com/patilreena/express-babel-starter-kit/issues"
   },
-  "homepage": "https://github.com/vmasto/express-babel#readme",
+  "homepage": "https://github.com/patilreena/express-babel-starter-kit/blob/master/README.md",
   "directories": {
     "test": "test"
   }
